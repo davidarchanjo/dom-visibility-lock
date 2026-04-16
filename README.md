@@ -1,5 +1,5 @@
-# visibility-lock
-Lock DOM element visibility using `MutationObserver`, ensuring that external DOM mutations cannot hide or alter a target element.
+# dom-visibility-lock
+`dom-visibility-lock` is a library which helps you lock a given DOM element visibility using `MutationObserver`, ensuring that external DOM mutations cannot hide or alter a target element.
 
 ---
 
